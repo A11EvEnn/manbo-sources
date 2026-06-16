@@ -1,0 +1,65 @@
+[
+  {
+    "name": "哔咔漫画 (PicaComic)",
+    "pkg": "com.manbo.source.picacg",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 1
+  },
+  {
+    "name": "Komiic",
+    "pkg": "com.manbo.source.komiic",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "拷贝漫画 (CopyManga)",
+    "pkg": "com.manbo.source.copymanga",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "包子漫画 (Baozi)",
+    "pkg": "com.manbo.source.baozimh",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "再漫画 (zaimanhua)",
+    "pkg": "com.manbo.source.zaimanhua",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "JComic",
+    "pkg": "com.manbo.source.jcomic",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "漫画1234 (MH1234)",
+    "pkg": "com.manbo.source.mh1234",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
+    "name": "禁漫天堂 (JMComic 18comic)",
+    "pkg": "com.manbo.source.jinmantiantang",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 1
+  },
+  {
+    "name": "漫蛙 (Manwa)",
+    "pkg": "com.manbo.source.manwa",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 1
+  }
+]
