@@ -61,5 +61,19 @@
     "lang": "zh",
     "version": "1.0.0",
     "nsfw": 1
+  },
+  {
+    "name": "绅士漫画 (WNACG)",
+    "pkg": "com.manbo.source.wnacg",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 1
+  },
+  {
+    "name": "E-Hentai",
+    "pkg": "com.manbo.source.ehentai",
+    "lang": "en",
+    "version": "1.0.0",
+    "nsfw": 1
   }
 ]
