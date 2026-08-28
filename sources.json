@@ -28,6 +28,13 @@
     "nsfw": 0
   },
   {
+    "name": "巴卡漫画 (Bakamh)",
+    "pkg": "com.manbo.source.bakamh",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 1
+  },
+  {
     "name": "再漫画 (zaimanhua)",
     "pkg": "com.manbo.source.zaimanhua",
     "lang": "zh",
@@ -73,6 +80,13 @@
     "name": "E-Hentai",
     "pkg": "com.manbo.source.ehentai",
     "lang": "en",
+    "version": "1.0.0",
+    "nsfw": 1
+  },
+  {
+    "name": "肉漫屋 (Roumanwu)",
+    "pkg": "com.manbo.source.roumanwu",
+    "lang": "zh",
     "version": "1.0.0",
     "nsfw": 1
   }
