@@ -21,6 +21,13 @@
     "nsfw": 0
   },
   {
+    "name": "哔哩漫画 (BilibiliManga)",
+    "pkg": "com.manbo.source.bilibilimanga",
+    "lang": "zh",
+    "version": "1.0.0",
+    "nsfw": 0
+  },
+  {
     "name": "包子漫画 (Baozi)",
     "pkg": "com.manbo.source.baozimh",
     "lang": "zh",
